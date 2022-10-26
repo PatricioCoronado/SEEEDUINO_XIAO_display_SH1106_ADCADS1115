@@ -9,4 +9,4 @@
 Librerias incluidas en el proyecto:
 ##
 # IMAGENES DEL HARDWARE
-![montaje](https://github.com/PatricioCoronado/SEEEDUINO_XIAO_display_SH1106_ADCADS1115//blob/main/ficheros/imagen.png "placa de desarrollo"
+![montaje](https://github.com/PatricioCoronado/SEEEDUINO_XIAO_display_SH1106_ADCADS1115/blob/main/ficheros/imagen.jpg "placa de desarrollo")
